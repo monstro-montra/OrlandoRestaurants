@@ -40,6 +40,50 @@
         "name": "CFS Coffee",
         "rating": 4.5,
         "vicinity": "4774 S Kirkman Rd, Orlando, FL 32811"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat":  28.4859246292389,
+                "lng": -81.42979209889958
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 28.4859246292389,
+                    "lng": -81.42979209889958
+                },
+                "southwest": {
+                    "lat":  28.4859246292389,
+                    "lng": -81.42979209889958
+                }
+            }
+        },
+        "name": "Brio Italian Grille",
+        "rating": 4.3,
+        "vicinity": "4200 Conroy Rd, Orlando, FL 32839"
+    },
+
+    28.596427587388423, -81.34998643794606,
+    {
+        "geometry": {
+            "location": {
+                "lat":  28.596427587388423,
+                "lng": -81.34998643794606
+            },
+            "viewport": {
+                "northeast": {
+                    "lat":  28.596427587388423,
+                    "lng": -81.34998643794606
+                },
+                "southwest": {
+                    "lat":  28.596427587388423,
+                    "lng": -81.34998643794606
+                }
+            }
+        },
+        "name": "AVA MediterrAegean",
+        "rating": 4.3,
+        "vicinity": "290 S Park Ave, Winter Park, FL 32789"
     }
 
 ]
